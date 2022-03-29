@@ -47,43 +47,34 @@ export const projects = [
   {
     title: "Otakusama",
     imgSrc: "assets/otaku.png",
-    desc:
-      "List of stocks below 200 DMA which are in Vivek Singhal's v40 and v40 next stocks list.",
-    link: "https://github.com/jayhawk24/v80",
+    desc: "An anime social networking and social cataloging application.",
+    link: "https://github.com/01Abhinav/anime_website",
   },
   {
-    title: "E Store 24",
-    imgSrc: "assets/estore.png",
+    title: "E-commerce",
+    imgSrc: "assets/shop.png",
     desc:
       "The website resembles a real store and you can add products to your cart and pay for them.",
-    link: "https://github.com/jayhawk24/E-store",
+    link: "https://github.com/01Abhinav/E-commerce",
   },
   {
-    title: "Blood Bank",
-    imgSrc: "assets/donation.jpg",
-    desc:
-      "Web application for hospitals to manage their blood bank and users who need blood. Made with PHP and MySQL.",
-    link: "https://github.com/jayhawk24/blood_bank",
+    title: "Weather-App",
+    imgSrc: "assets/weather.png",
+    desc: "A realtime multilocation wearther app.",
+    link: "https://github.com/01Abhinav/weather-app",
   },
   {
-    title: "Ora Studio",
-    imgSrc: "assets/orastudio.png",
-    desc:
-      "Architect Organisation Website. It is astatic website but with a great userinterface and you can check it out.",
-    link: "https://github.com/jayhawk24/orastudio",
+    title: "ANN model for MNIST dataset and custom images",
+    imgSrc: "assets/mnist.png",
+    desc: "ANN model that can predict hand written characters",
+    link:
+      "https://github.com/01Abhinav/DL-with-pytroch/blob/main/MNISTrefined.ipynb",
   },
   {
-    title: "Zen Social",
-    imgSrc: "assets/zensocial.png",
+    title: "Activity-Logger",
+    imgSrc: "assets/activity.png",
     desc:
-      "Social App made with django. You can post your thoughts and ideas anonymously and also create groups and post there.",
-    link: "https://github.com/jayhawk24/zensocial",
-  },
-  {
-    title: "Take Turns",
-    imgSrc: "assets/takeTurns.png",
-    desc:
-      "Easy Friendy Management, register your roommates, and it will simply show who's turn it is to carry out a task job.",
-    link: "https://github.com/jayhawk24/take-turns",
+      "A MERN based web application for logging various activity with timestamp for various users",
+    link: "https://github.com/01Abhinav/ActivityLogger",
   },
 ];
