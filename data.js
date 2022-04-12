@@ -5,7 +5,7 @@ export const home = {
     "A Pre-Final year Electrical Engineering Student at IIT(ISM) Dhanbad",
   email: "abhinav.zimmy@gmail.com",
   resumeLink:
-    "https://docs.google.com/document/d/1T5MIZcKE1Op79uaKbUsN0Sfa7unPv5R-HimdyZZax4g/edit?usp=sharing",
+    "https://docs.google.com/document/d/1yCJ4oYgrV33ovusU8-WXyKUZ4EPath20BSkumuGPwXA/edit?usp=sharing",
   desc:
     "A tech enthusiast in general. Have tinkered with Dl models and robots. Currently learning web development techniques.",
 };
