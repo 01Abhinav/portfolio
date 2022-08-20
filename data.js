@@ -1,27 +1,26 @@
 export const home = {
-  domain: "abhinav.github.io",
+  domain: "codeforces.com/profile/4v9",
   name: "Abhinav",
-  subtitle:
-    "A Pre-Final year Electrical Engineering Student at IIT(ISM) Dhanbad",
+  subtitle: "A Final year Electrical Engineering Student at IIT(ISM) Dhanbad",
   email: "abhinav.zimmy@gmail.com",
   resumeLink:
     "https://docs.google.com/document/d/1yCJ4oYgrV33ovusU8-WXyKUZ4EPath20BSkumuGPwXA/edit?usp=sharing",
-  desc:
-    "A tech enthusiast in general. Have tinkered with Dl models and robots. Currently learning web development techniques.",
+  desc: "Hi There! I am Abhinav Raj, a final Year undergrad, currently majoring in Electrical Engineering from IIT ISM Dhanbad. I have tinkered with various things from web dev to game dev, robots to deep learning techniques. I have become jack of many trades but I aspire to be master of one. I crave knowledge. I keep its application through engineering and innovation in my highest regards. I do competitive coding and and have some experience in MERN stack. Making machine do something with a few lines of code is a powerful means to bring actual, practical changes and I aspire to be better in that.",
 };
 
 export const socials = {
   // Only usernames.
   twitter: "abhinavzimmy",
   github: "01Abhinav",
-  linkedin: "abhinav-raj-77252918a",
+  linkedin: "4v9",
 };
 
 export const about = {
   aboutMe:
-    "🙏 Namaste, I am Abhinav Raj from IIT(ISM) Dhanbad. Apart from coding, there are a lot of activities I love to do...",
+    "🙏 Namaste. Apart from coding, there are a lot of activities I love to do...",
   hobbies: ["Gaming", "Chess", "astronomy", "anime"],
-  quote: "Write code that changes Lives...",
+  quote:
+    "those who don't learn from history are doomed to repeat it ~Dynamic Programming  (I love this one!)",
   skills: [
     "cplusplus",
     "react",
@@ -51,11 +50,10 @@ export const projects = [
     link: "https://github.com/01Abhinav/anime_website",
   },
   {
-    title: "E-commerce",
-    imgSrc: "assets/shop.png",
-    desc:
-      "The website resembles a real store and you can add products to your cart and pay for them.",
-    link: "https://github.com/01Abhinav/E-commerce",
+    title: "Papyrus",
+    imgSrc: "assets/papyrus.png",
+    desc: "A journal application with sentiment analysis and record.",
+    link: "https://github.com/01Abhinav/Papyrus",
   },
   {
     title: "Weather-App",
@@ -67,14 +65,12 @@ export const projects = [
     title: "ANN model for MNIST dataset and custom images",
     imgSrc: "assets/mnist.png",
     desc: "ANN model that can predict hand written characters",
-    link:
-      "https://github.com/01Abhinav/DL-with-pytroch/blob/main/MNISTrefined.ipynb",
+    link: "https://github.com/01Abhinav/DL-with-pytroch/blob/main/MNISTrefined.ipynb",
   },
   {
     title: "Activity-Logger",
     imgSrc: "assets/activity.png",
-    desc:
-      "A MERN based web application for logging various activity with timestamp for various users",
+    desc: "A MERN based web application for logging various activity with timestamp for various users",
     link: "https://github.com/01Abhinav/ActivityLogger",
   },
 ];

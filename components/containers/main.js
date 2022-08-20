@@ -26,6 +26,11 @@ export default function Main() {
           >
             <button>CONTACT ME</button>
           </a>
+          <button>
+            <a href={home.resumeLink} target="_blank" rel="noopener noreferrer">
+              View Resume
+            </a>
+          </button>
         </div>
         <div className="icons">
           <SocialIcons
@@ -44,15 +49,7 @@ export default function Main() {
       </div>
       <div className="banner">
         <img src="assets/undraw_coding_6mjf.svg" alt="illustration" />
-        <p>
-          {home.desc}
-          <br />
-          <button>
-            <a href={home.resumeLink} target="_blank" rel="noopener noreferrer">
-              View Resume
-            </a>
-          </button>
-        </p>
+        <p style={{ fontSize: 17 }}>{home.desc}</p>
       </div>
     </section>
   );
